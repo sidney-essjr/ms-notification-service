@@ -22,9 +22,3 @@ npm install @nestjs/config
 npm install prisma --save-dev
 npm install @prisma/client
 ```
-
-npm install -g @nestjs/cli
-npx prisma migrate deploy
-nest new meu-payment-service
-npx prisma init
-npx prisma migrate dev --name initial
