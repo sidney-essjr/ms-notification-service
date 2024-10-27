@@ -1,7 +1,5 @@
 ## Micro serviço de pagamento implementado com nodejs por meio do framework NestJS
 
-Endpoint disponível: (GET) /mail?idUser=
-
 Serviços necessários para funcionamento do projeto
 
 - DB Postgres
