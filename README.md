@@ -1,4 +1,4 @@
-## Micro serviço de pagamento implementado com nodejs por meio do framework NestJS
+## Micro serviço de notificação implementado com nodejs por meio do framework NestJS
 
 Serviços necessários para funcionamento do projeto
 
